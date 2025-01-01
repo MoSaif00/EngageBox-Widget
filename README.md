@@ -1,8 +1,8 @@
 # EngageBox Widget
 
-A lightweight, customizable feedback collection widget that can be easily integrated into any website. Built with Vite and React. Also was built to work with it is [dashboard](https://github.com/MoSaif00/EngageBox-Dashboard.git)
+A lightweight, customizable feedback collection widget that can be easily integrated into any website. Built with Vite and React. Also was built to work with it is [dashboard](https://github.com/MoSaif00/EngageBox-Dashboard.git){:target="\_blank"}
 
-![Dashboard](./public/demo.png)
+![Dashboard](./public/demo.gif)
 
 ## Prerequisites
 
